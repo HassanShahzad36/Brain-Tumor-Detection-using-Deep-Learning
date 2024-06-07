@@ -6,7 +6,6 @@ This project aims to detect brain tumors in medical images using Deep Learning t
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Data Preprocessing](#data-preprocessing)
 - [Training](#training)
